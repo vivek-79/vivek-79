@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/7ee54af5-7e7d-44c0-b305-57787891d0c6)
-">
+"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-79&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-79" /> </p>
 
